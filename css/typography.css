@@ -1,0 +1,29 @@
+h1 {
+  font-family: Chakra Petch;
+  color: white;
+  font-size: 3rem;
+  margin-top: 5.5rem;
+  margin-bottom: 0px;
+  line-height: 5rem;
+}
+
+h2 {
+  font-family: Chakra Petch;
+  font-size: 3rem;
+  color: white;
+  margin-bottom: 1;
+}
+
+h3 {
+  font-family: Play;
+  font-size: larger;
+  color: white;
+  line-height: 1.5rem;
+}
+
+p {
+  font-family: Roboto;
+  color: white;
+  font-size: 18px;
+  line-height: 2;
+}
