@@ -1,5 +1,5 @@
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.323), rgba(4, 4, 4, 0.345)), url("../images/cyberpunk-city.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.323), rgba(4, 4, 4, 0.345)), url("../images/hero-image.jpg");
   height: 100vh;
   
   /* Position and center the image to scale nicely on all screens */

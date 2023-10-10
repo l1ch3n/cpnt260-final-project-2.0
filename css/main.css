@@ -1,0 +1,13 @@
+html {
+  background-color: black;
+}
+
+main {
+  padding: 2rem;
+  align-items: center;
+  gap: 1rem;
+}
+
+img {
+  display: block;
+}
