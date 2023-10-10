@@ -1,0 +1,9 @@
+.bg-image {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.575), rgba(4, 4, 4, 0.316)), url("../images/cloud-tower.jpg");
+  height: 100vh;
+  
+  /* Position and center the image to scale nicely on all screens */
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
